@@ -2,8 +2,9 @@ title: openSUSE MicroOS
 title_short: MicroOS
 email: opensuse-factory@opensuse.org
 description: Micro Service OS built by the openSUSE community
-copyright: '© 2017–2023 openSUSE contributors'
-baseurl: "https://microos.opensuse.org"
+copyright: '© 2017–2024 openSUSE contributors'
+baseurl: ""
+url: "https://microos.opensuse.org"
 plugins:
   - jekyll-feed
   - jekyll-paginate
